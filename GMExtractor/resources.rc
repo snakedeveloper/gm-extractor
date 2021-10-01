@@ -1,0 +1,47 @@
+/*
+    Copyright 2008, 2009 (C) Snake [http://sgames.ovh.org/] 
+
+    GM Extractor is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    GM Extractor is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with GM Extractor.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+MAINICON ICON "Resources\\mainIcon.ico"
+
+1 VERSIONINFO
+FILEVERSION 2,0,0,1
+PRODUCTVERSION 2,0,0,0
+FILEOS 0x0
+FILETYPE 0x0
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904E4"
+	{
+		VALUE "CompanyName", "Snake"
+		VALUE "FileDescription", "GM Extractor - extracts resources from Game Maker projects"
+		VALUE "FileVersion", "2.0.0.1"
+		VALUE "InternalName", " "
+		VALUE "LegalCopyright", "Snake"
+		VALUE "LegalTrademarks", " "
+		VALUE "OriginalFilename", " "
+		VALUE "ProductName", "GM Extractor"
+		VALUE "ProductVersion", "2.0.0.0"
+		VALUE "Comments", "http://sgames.ovh.org/"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04E4
+}
+}
